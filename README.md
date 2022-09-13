@@ -1,6 +1,6 @@
 # github-repos
 
-Hi! Here is my solution of the recruitment task. I've used Java 17 with Maven (for the dependencies), for the purposes of performing operations on the JSON format, I used a simple org.json library. 
+Hi! Here is my solution to the recruitment task. I've used Java 17 with Maven (for the dependencies), for the purpose of performing operations on JSON format I used a simple org.json library. 
 
 
 A bit about my approach to the solution...
